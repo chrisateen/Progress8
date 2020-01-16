@@ -2,6 +2,8 @@
 
 This repository contains a sample code of how to calculate progress 8 scores using the Python pandas library. The code is to give you an idea of how pandas can be used to calculate Porgress 8 scores. 
 
+You are free to modify and use the code for your own use in a not for profit setting.
+
 ### Excel files included in the repository
 
 The following excel files are included in the repository in order to calculate progress 8
