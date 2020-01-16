@@ -1,8 +1,13 @@
 # Progress 8
 
-This repository contains a sample code of how to calculate progress 8 scores using the Python pandas library. The code is to give you an idea of how pandas can be used to calculate Porgress 8 scores. 
+This repository contains a sample code of how to calculate progress 8 scores using the Python pandas library. The code is to give you an idea of how pandas can be used to calculate Progress 8 scores.
 
 You are free to modify and use the code for your own use in a not for profit setting.
+
+Note that you are strongly recommended to double check your Progress 8 output files is outputting the correct Progress 8 scores for each pupil and cannot be held responsible if there are any issues with the code.
+
+Note that the original code was done as a quick hack for me to personally calculate Progress 8 at work. Already I know that there are some things I can do to make the code cleaner and hope to make improvements to the code over time. Therefore, any suggestions to the code will be greatly appreciated. Also if you have any queries please let me know.
+
 
 ### Excel files included in the repository
 
@@ -20,3 +25,8 @@ In order for the code to fully work as is, you need to make sure that you follow
 * The students' grade file has the word Results at the end of the file name
 
 _Note that if you want to do things differently that you are free to modify the code_
+
+### Running the python file
+
+At the moment the code is stored in a single ipynb file which can be opened and run using jupyter notebook which is part of [Anaconda] (https://www.anaconda.com/distribution/). Over time I am hoping move it to a .py file and separate out the code into multiple files.
+
