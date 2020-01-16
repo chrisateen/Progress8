@@ -6,7 +6,7 @@ You are free to modify and use the code for your own use in a not for profit set
 
 Note that you are strongly recommended to double check your Progress 8 output files is outputting the correct Progress 8 scores for each pupil and cannot be held responsible if there are any issues with the code.
 
-Note that the original code was done as a quick hack for me to personally calculate Progress 8 at work. Already I know that there are some things I can do to make the code cleaner and hope to make improvements to the code over time. Therefore, any suggestions to the code will be greatly appreciated. Also if you have any queries please let me know.
+Note that the original code was done as a quick hack for me to personally calculate Progress 8 at work. Already I know that there are some things I can do to make the code cleaner and hope to make improvements to the code over time. Therefore, any suggestions to the code will be greatly appreciated. If you have any queries about how the code works, please feel free to contact me.
 
 
 ### Excel files included in the repository
