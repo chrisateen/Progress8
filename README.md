@@ -28,5 +28,5 @@ _Note that if you want to do things differently that you are free to modify the 
 
 ### Running the python file
 
-At the moment the code is stored in a single ipynb file which can be opened and run using jupyter notebook which is part of [Anaconda] (https://www.anaconda.com/distribution/). Over time I am hoping move it to a .py file and separate out the code into multiple files.
+At the moment the code is stored in a single ipynb file which can be opened and run using jupyter notebook which is part of [Anaconda](https://www.anaconda.com/distribution/). Over time I am hoping move it to a .py file and separate out the code into multiple files.
 
