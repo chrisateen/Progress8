@@ -30,3 +30,5 @@ _Note that if you want to do things differently that you are free to modify the 
 
 At the moment the code is stored in a single ipynb file which can be opened and run using jupyter notebook which is part of [Anaconda](https://www.anaconda.com/distribution/). Over time I am hoping move it to a .py file and separate out the code into multiple files.
 
+Instructions on how to download the code and the files in the repository (i.e clone the repository) can be found [here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
+
