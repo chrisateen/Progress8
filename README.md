@@ -23,6 +23,7 @@ In order for the code to fully work as is, you need to make sure that you follow
 * The students' grade is in the same folder as the code
 * The students' grade is in an excel file that follows the same format as the School1 Results and School2 Results excel file and is an xlsx file
 * The students' grade file has the word Results at the end of the file name
+* The grading used on the Results file **MUST** match the grading used in the DfE performance points file. For example having a grade D*2 instead of *2 would not be picked up as the DfE performance points file uses *2. If you have a situation where the grades do not match what is in the DfE performance points file you will need to add some extra code that addresses such situations.
 
 _Note that if you want to do things differently that you are free to modify the code_
 
