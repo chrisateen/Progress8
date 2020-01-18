@@ -12,6 +12,9 @@
 profile_default/
 ipython_config.py
 
+# Excel files
+Attainment 8 Data.xlsx
+
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
 
