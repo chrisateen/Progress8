@@ -19,7 +19,7 @@ The following excel files are included in the repository in order to calculate a
 
 ### Requirements for the code to work correctly
 
-In order for the code to fully work as is, you need to make sure that you follow the following rules. 
+In order for the code to fully work as is, you need to make sure that you follow the below rules: 
 * The students' grade is in the same folder as the code
 * The students' grade is in an excel file that follows the same format as the School1 Results and School2 Results excel file and is an xlsx file
 * The students' grade file has the word Results at the end of the file name
@@ -43,5 +43,4 @@ I am planning to add the following features or/and make the following modificati
 * Separate out the code into functions
 * Separate out the code into classes
 * Read the excel file from the DfE directly from the DfE website
-* Include results where a student achieves a U grade
 
