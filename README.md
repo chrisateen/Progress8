@@ -6,7 +6,7 @@ You are free to modify and use the code for your own use in a not for profit set
 
 Note that you are strongly recommended to double check your attainment 8 output excel files is outputting the correct attainment 8 scores for each pupil and cannot be held responsible if there are any issues with the code.
 
-Note that the original code was done as a quick hack for me to personally calculate progress 8 at work. Already I know that there are some things I can do to make the code cleaner and hope to make improvements to the code over time (see features to be added/modifications to be made section below). Therefore, any suggestions to the code will be greatly appreciated. If you have any queries about how the code works, please feel free to contact me.
+Already I know that there are some things I can do to make the code cleaner and hope to make improvements to the code over time (see features to be added/modifications to be made section below). Therefore, any suggestions to the code will be greatly appreciated. If you have any queries about how the code works, please feel free to contact me.
 
 
 ### Excel files included in the repository
